@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: Risk culture fitted to the risks an organisation runs. Consulting and methods from T. G. L. Hudson, Cambridge and Leiden.
+description: Risk culture fitted to the risks an organisation runs. Consulting and methods from T. G. L. Hudson, Cambridge, United Kingdom, and Leiden, The Netherlands.
 hero:
   eyebrow: Hudson Risk Culture (HRC)
   title: Risk culture fitted to the risks you run

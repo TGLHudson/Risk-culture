@@ -17,4 +17,4 @@ It helps to include:
 - the risks you are concerned with;
 - whether you are asking about consulting, licensing a tool, or both.
 
-Hudson Global Consulting is based in Cambridge and Leiden.
+Hudson Global Consulting is based in Cambridge, United Kingdom, and Leiden, The Netherlands.
