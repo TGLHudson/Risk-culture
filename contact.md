@@ -14,11 +14,11 @@ For consulting and licensing, email [enquiries@hudsonriskculture.com](mailto:enq
 It helps to include:
 
 - your organisation, or the union or workforce body you represent, and the sector;
-- the risks you are concerned with;
+- a brief, non-confidential description of the risks you are concerned with;
 - whether you are asking about consulting, licensing a tool, or both.
+
+<p class="placeholder">How enquiries are handled in confidence, and how a conflict is managed where Hudson Risk Culture works, or has worked, for the same employer.</p>
 
 ## General information
 
 For anything else, including publications, speaking and press, email [info@hudsonriskculture.com](mailto:info@hudsonriskculture.com).
-
-Hudson Global Consulting is based in Cambridge, United Kingdom, and Leiden, The Netherlands.

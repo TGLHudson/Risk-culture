@@ -7,7 +7,7 @@ description: Books by T. G. L. Hudson, beginning with The Culture Ladder, CRC Pr
 
 Books by T. G. L. Hudson, the author behind Hudson Risk Culture (HRC).
 
-## The Culture Ladder
+## *The Culture Ladder*
 
 *The Culture Ladder* is due from CRC Press in February 2027. It reframes the safety culture ladder, asking what culture fits the risks an organisation runs rather than how "mature" it is.
 

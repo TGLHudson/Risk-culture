@@ -13,6 +13,8 @@ The site uses [Jekyll](https://jekyllrb.com/), which GitHub Pages builds directl
 | `_config.yml` | Site title, description, and the main navigation (`nav`) |
 | `_layouts/default.html` | The page template |
 | `_includes/` | Header, footer and the home-page hero |
+
+To add the home-page hero photograph, put a dark image you hold the rights to in `assets/img/` and set `hero.image` in the front matter of `index.md` (for example `image: /assets/img/hero.jpg`). It shows under a navy overlay.
 | `assets/css/site.css` | All styling, following `STYLE.md` |
 | `assets/fonts/` | Montserrat and Source Sans 3, self-hosted (SIL Open Font Licence, copies included) |
 | `STYLE.md` | The Hudson family style guide: palette, type and components shared with hudsonglobalconsulting.com and the book's site |

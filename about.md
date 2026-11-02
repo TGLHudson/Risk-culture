@@ -2,7 +2,7 @@
 layout: default
 permalink: /about/
 title: About
-description: T. G. L. Hudson, Hudson Global Consulting, Cambridge, United Kingdom, and Leiden, The Netherlands.
+description: About T. G. L. Hudson and Hudson Risk Culture, his practice operating through Hudson Global Consulting from Cambridge, United Kingdom, and Leiden, The Netherlands.
 ---
 
 Hudson Risk Culture (HRC) is the risk culture practice of T. G. L. Hudson, who operates through Hudson Global Consulting from Cambridge, United Kingdom, and Leiden, The Netherlands.
@@ -15,7 +15,7 @@ T. G. L. Hudson works on operational risk, safety culture and barrier analysis. 
 
 ## Position
 
-Safety is not the opposite of dangerous work; it is the condition of being able to repeat it. We work against the risk, not for management, and the work is pro-worker and pro-union.
+Safety is not the opposite of dangerous work; it is the condition of being able to repeat it. The work is pro-worker and pro-union. See [Approach]({{ '/approach/' | relative_url }}).
 
 ## Provenance
 

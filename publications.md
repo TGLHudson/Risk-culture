@@ -19,7 +19,7 @@ The safety culture ladder originates with Dr P. T. W. Hudson, T. G. L. Hudson's 
 
 ## P. A. R. Hudson
 
-P. A. R. Hudson is co-author of several papers below. His own papers are listed on a separate page: [Papers by P. A. R. Hudson]({{ '/publications/p-a-r-hudson/' | relative_url }}).
+P. A. R. Hudson is co-author of several papers below. P. A. R. Hudson's own papers are listed on a separate page: [Papers by P. A. R. Hudson]({{ '/publications/p-a-r-hudson/' | relative_url }}).
 
 ## Society of Petroleum Engineers papers
 
@@ -27,20 +27,20 @@ P. A. R. Hudson is co-author of several papers below. His own papers are listed 
 
 SPE International Health, Safety, Environment, and Sustainability Conference and Exhibition, Abu Dhabi, United Arab Emirates, September 2024.
 
-- Hudson, T. G. L., Hudson, P. A. R. and Hudson, P. T. W. Structural understanding underlying the safety culture ladder. SPE-220464-MS. [doi:10.2118/220464-MS](https://doi.org/10.2118/220464-MS)
-- Hudson, T. G. L., Hudson, P. A. R. and Hudson, P. T. W. Interaction between skill and risk spaces in operational risk. SPE-220498-MS. [doi:10.2118/220498-MS](https://doi.org/10.2118/220498-MS)
-- Hudson, T. G. L., Hudson, P. A. R. and Hudson, P. T. W. Non-compliance in complex operations: a case study led discussion. SPE-220344-MS. [doi:10.2118/220344-MS](https://doi.org/10.2118/220344-MS)
-- Hudson, T. G. L., Hudson, P. A. R. and Hudson, P. T. W. Risk space and driving: elementary failures in understanding. SPE-220251-MS. [doi:10.2118/220251-MS](https://doi.org/10.2118/220251-MS)
+- Hudson, T. G. L., Hudson, P. A. R. and Hudson, P. T. W. (2024). Structural understanding underlying the safety culture ladder. SPE-220464-MS. [doi:10.2118/220464-MS](https://doi.org/10.2118/220464-MS)
+- Hudson, T. G. L., Hudson, P. A. R. and Hudson, P. T. W. (2024). Interaction between skill and risk spaces in operational risk. SPE-220498-MS. [doi:10.2118/220498-MS](https://doi.org/10.2118/220498-MS)
+- Hudson, T. G. L., Hudson, P. A. R. and Hudson, P. T. W. (2024). Non-compliance in complex operations: a case study led discussion. SPE-220344-MS. [doi:10.2118/220344-MS](https://doi.org/10.2118/220344-MS)
+- Hudson, T. G. L., Hudson, P. A. R. and Hudson, P. T. W. (2024). Risk space and driving: elementary failures in understanding. SPE-220251-MS. [doi:10.2118/220251-MS](https://doi.org/10.2118/220251-MS)
 
 ### 2020
 
 SPE International Conference and Exhibition on Health, Safety, Environment, and Sustainability, held virtually, July 2020.
 
-- Hudson, T. G. L. and Hudson, P. T. W. Risk space: understanding the complexity of operational risk. SPE-199401-MS. [doi:10.2118/199401-MS](https://doi.org/10.2118/199401-MS)
-- Hudson, T. G. L. and Hudson, P. T. W. Skill equals competence plus experience. SPE-199446-MS. [doi:10.2118/199446-MS](https://doi.org/10.2118/199446-MS)
-- Hudson, T. G. L. and Hudson, P. T. W. Sparseness and completeness: simplifying bowties to improve understanding and predictive power. SPE-199496-MS. [doi:10.2118/199496-MS](https://doi.org/10.2118/199496-MS)
-- Hudson, T. G. L. Famous barriers within the bowtie levels analysis: creating middle and senior management understanding about the relative importance of management activities. SPE-199424-MS. [doi:10.2118/199424-MS](https://doi.org/10.2118/199424-MS)
-- Hudson, P. A. R. and Hudson, T. G. L. That is not a barrier! Investigating improper barrier placement in bowties using road traffic bowties as a case study. SPE-199380-MS. [doi:10.2118/199380-MS](https://doi.org/10.2118/199380-MS)
+- Hudson, T. G. L. and Hudson, P. T. W. (2020). Risk space: understanding the complexity of operational risk. SPE-199401-MS. [doi:10.2118/199401-MS](https://doi.org/10.2118/199401-MS)
+- Hudson, T. G. L. and Hudson, P. T. W. (2020). Skill equals competence plus experience. SPE-199446-MS. [doi:10.2118/199446-MS](https://doi.org/10.2118/199446-MS)
+- Hudson, T. G. L. and Hudson, P. T. W. (2020). Sparseness and completeness: simplifying bowties to improve understanding and predictive power. SPE-199496-MS. [doi:10.2118/199496-MS](https://doi.org/10.2118/199496-MS)
+- Hudson, T. G. L. (2020). Famous barriers within the bowtie levels analysis: creating middle and senior management understanding about the relative importance of management activities. SPE-199424-MS. [doi:10.2118/199424-MS](https://doi.org/10.2118/199424-MS)
+- Hudson, P. A. R. and Hudson, T. G. L. (2020). That is not a barrier! Investigating improper barrier placement in bowties using road traffic bowties as a case study. SPE-199380-MS. [doi:10.2118/199380-MS](https://doi.org/10.2118/199380-MS)
 
 <p class="placeholder">Confirm the authors of SPE-199446-MS and SPE-199424-MS. The book's Note on Sources and other working files disagree on whether P. T. W. Hudson is a co-author.</p>
 
@@ -48,25 +48,25 @@ SPE International Conference and Exhibition on Health, Safety, Environment, and 
 
 SPE International Conference and Exhibition on Health, Safety, Security, Environment, and Social Responsibility, Abu Dhabi, United Arab Emirates, April 2018.
 
-- Hudson, T. G. L. and Hudson, P. T. W. Moving up the culture ladder: creation and application of management methods to guide organisations towards generative, a case study. SPE-190676-MS. [doi:10.2118/190676-MS](https://doi.org/10.2118/190676-MS)
-- Hudson, T. G. L. Refining Heinrich: power laws in incident severity distributions. SPE-190669-MS. [doi:10.2118/190669-MS](https://doi.org/10.2118/190669-MS)
-- Hudson, T. G. L. 'Famous' barriers: a novel approach to improving management understanding of critical functions. SPE-190633-MS. [doi:10.2118/190633-MS](https://doi.org/10.2118/190633-MS)
+- Hudson, T. G. L. and Hudson, P. T. W. (2018). Moving up the culture ladder: creation and application of management methods to guide organisations towards generative, a case study. SPE-190676-MS. [doi:10.2118/190676-MS](https://doi.org/10.2118/190676-MS)
+- Hudson, T. G. L. (2018). Refining Heinrich: power laws in incident severity distributions. SPE-190669-MS. [doi:10.2118/190669-MS](https://doi.org/10.2118/190669-MS)
+- Hudson, T. G. L. (2018). 'Famous' barriers: a novel approach to improving management understanding of critical functions. SPE-190633-MS. [doi:10.2118/190633-MS](https://doi.org/10.2118/190633-MS)
 
-<p class="placeholder">Confirm the authors of SPE-190633-MS. One working file lists P. Hudson as co-author and links it to SPE-197793-MS.</p>
+<p class="placeholder">Confirm the authors of SPE-190633-MS. One working file lists a second Hudson as co-author and links it to SPE-197793-MS.</p>
 
 ### 2016
 
 SPE International Conference and Exhibition on Health, Safety, Security, Environment, and Social Responsibility, Stavanger, Norway, April 2016.
 
-- Hudson, P. A. R. and Hudson, T. G. L. Making safety critical decisions in a high-hazard high-consequence environment: a case study. SPE-179436-MS. [doi:10.2118/179436-MS](https://doi.org/10.2118/179436-MS)
+- Hudson, P. A. R. and Hudson, T. G. L. (2016). Making safety critical decisions in a high-hazard high-consequence environment: a case study. SPE-179436-MS. [doi:10.2118/179436-MS](https://doi.org/10.2118/179436-MS)
 
-<p class="placeholder">Confirm the first author of SPE-179436-MS. The book's Note on Sources gives P. A. R. Hudson; the reference lists in the 2026 papers give P. T. W. Hudson.</p>
+<p class="placeholder">Confirm the first author of SPE-179436-MS. The book's Note on Sources gives P. A. R. Hudson; the reference lists in the forthcoming papers give P. T. W. Hudson.</p>
 
 ### 2010
 
 SPE International Conference on Health, Safety and Environment in Oil and Gas Exploration and Production, Rio de Janeiro, Brazil, April 2010.
 
-- Hudson, P. T. W. and Hudson, T. G. L. Moving from investigating to analysing incidents: supporting organisational learning. SPE-127182-MS. [doi:10.2118/127182-MS](https://doi.org/10.2118/127182-MS)
+- Hudson, P. T. W. and Hudson, T. G. L. (2010). Moving from investigating to analysing incidents: supporting organisational learning. SPE-127182-MS. [doi:10.2118/127182-MS](https://doi.org/10.2118/127182-MS)
 
 ## Book chapters
 
@@ -80,7 +80,7 @@ SPE International Conference on Health, Safety and Environment in Oil and Gas Ex
 
 ## Forthcoming
 
-Five further SPE papers have been accepted for the SPE International Health, Safety, Environment, and Sustainability Conference and Exhibition, Abu Dhabi, now due in January 2027. They will be listed here once published.
+Further SPE papers are due for presentation in January 2027. They will be listed here once published.
 
 ## Journal articles
 

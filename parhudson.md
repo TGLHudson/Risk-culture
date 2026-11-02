@@ -5,7 +5,7 @@ title: Papers by P. A. R. Hudson
 description: Published work of P. A. R. Hudson, co-author with T. G. L. Hudson.
 ---
 
-P. A. R. Hudson has co-written several of the papers on the main [Publications]({{ '/publications/' | relative_url }}) page. His own published work is listed here.
+P. A. R. Hudson has co-written several of the papers on the main [Publications]({{ '/publications/' | relative_url }}) page. P. A. R. Hudson's own published work is listed here.
 
 <p class="placeholder">State P. A. R. Hudson's relationship to T. G. L. Hudson and to Hudson Risk Culture (HRC) openly, in one sentence, as the site does for Dr P. T. W. Hudson.</p>
 

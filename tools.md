@@ -9,17 +9,13 @@ Hudson Risk Culture (HRC) develops methods and instruments for assessing whether
 
 ## Available tools
 
-<p class="placeholder">Tool 1: name and one-paragraph description. To be added once the tool is cleared for public description.</p>
-
-<p class="placeholder">Tool 2: name and one-paragraph description. To be added once the tool is cleared for public description.</p>
-
-<p class="placeholder">Tool 3: name and one-paragraph description. To be added once the tool is cleared for public description.</p>
+<p class="placeholder">Each tool cleared for public description: its name, one paragraph on what it does, and the published paper, if any, that describes or tests it.</p>
 
 ## Licensing
 
-Tools are licensed by enquiry. A licence is arranged to suit the organisation: internal use by an organisation's own staff, or use by an independent practitioner with clients.
+Tools are licensed by enquiry.
 
-<p class="placeholder">Confirm the licence forms on offer (organisation, practitioner, or both) before this section goes live.</p>
+<p class="placeholder">The licence forms on offer: use by an organisation's own staff, use by an independent practitioner with clients, and whether trade unions or workforce bodies may hold a licence.</p>
 
 ## Practitioner training
 
