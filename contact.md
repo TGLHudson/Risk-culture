@@ -9,12 +9,16 @@ Hudson Risk Culture (HRC) takes on consulting and licensing by enquiry, from org
 
 ## Enquiries
 
-<p class="placeholder">An enquiries email address on the hudsonriskculture.com domain, for example a role address such as enquiries@. No personal address or telephone number.</p>
+For consulting and licensing, email [enquiries@hudsonriskculture.com](mailto:enquiries@hudsonriskculture.com).
 
 It helps to include:
 
 - your organisation, or the union or workforce body you represent, and the sector;
 - the risks you are concerned with;
 - whether you are asking about consulting, licensing a tool, or both.
+
+## General information
+
+For anything else, including publications, speaking and press, email [info@hudsonriskculture.com](mailto:info@hudsonriskculture.com).
 
 Hudson Global Consulting is based in Cambridge, United Kingdom, and Leiden, The Netherlands.

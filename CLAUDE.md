@@ -32,6 +32,7 @@ This repository holds the Hudson Risk Culture website, served at **hudsonriskcul
 - **Audience:** operational, health, safety and environment leaders; risk and governance functions; trade unions and workforce representatives, addressed directly.
 - **Pages:** Home, Approach, Consulting, Tools and licensing, Publications (with sub-pages for Dr P. T. W. Hudson and P. A. R. Hudson), Books, About, Contact.
 - **Selling:** consulting and tool licensing are by enquiry only. No prices on the site.
+- **Email:** enquiries@hudsonriskculture.com for consulting and licensing; info@hudsonriskculture.com for everything else. Role addresses only, never personal ones.
 - **Intellectual property:** name a tool or method only once Tim has cleared it for public description; until then, a placeholder.
 - **Publications:** list published work only, linked to the publisher's DOI or record. Never put copies of papers in this repository. Declare family relationships on each family member's page.
 
@@ -40,4 +41,3 @@ This repository holds the Hudson Risk Culture website, served at **hudsonriskcul
 - The hero photograph for the home page.
 - One sentence stating P. A. R. Hudson's relationship to T. G. L. Hudson and to HRC.
 - Whether later books get their own websites.
-- The enquiries email address.
