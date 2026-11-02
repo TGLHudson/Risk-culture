@@ -5,7 +5,7 @@ title: Contact
 description: Enquiries about consulting and licensing.
 ---
 
-Hudson Risk Culture (HRC) takes on consulting and licensing by enquiry.
+Hudson Risk Culture (HRC) takes on consulting and licensing by enquiry, from organisations and from trade unions and workforce representatives alike.
 
 ## Enquiries
 
@@ -13,7 +13,7 @@ Hudson Risk Culture (HRC) takes on consulting and licensing by enquiry.
 
 It helps to include:
 
-- your organisation and sector;
+- your organisation, or the union or workforce body you represent, and the sector;
 - the risks you are concerned with;
 - whether you are asking about consulting, licensing a tool, or both.
 

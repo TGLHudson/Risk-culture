@@ -13,7 +13,7 @@ Hudson Risk Culture (HRC) works on operational risk, safety culture and barrier 
 We are not working for management; we are working against the risk. The aim of every engagement is that management and workforce agree on how the risks being run are managed.
 
 <ul class="routes">
-  <li><a href="{{ '/consulting/' | relative_url }}">Consulting</a><br>Engagements for operational, health, safety and environment leaders, and for risk and governance functions.</li>
+  <li><a href="{{ '/consulting/' | relative_url }}">Consulting</a><br>Engagements for operational, health, safety and environment leaders, risk and governance functions, and trade unions and workforce representatives.</li>
   <li><a href="{{ '/tools/' | relative_url }}">Tools and licensing</a><br>Methods and instruments, available under licence by enquiry.</li>
   <li><a href="{{ '/publications/' | relative_url }}">Publications</a><br>Peer-reviewed work with the Society of Petroleum Engineers, and the forthcoming book.</li>
 </ul>
