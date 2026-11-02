@@ -19,7 +19,7 @@ Maturity models, the safety culture ladder among them, are usually read as scale
 
 ## Where the ladder comes from
 
-Ron Westrum described three organisational cultures: pathological, bureaucratic and generative. Dr P. T. W. Hudson built the safety culture ladder on them, working out its five stages with Westrum's cooperation; the five-stage version followed in 2000, with Dianne Parker, Matthew Lawrie and colleagues. Dr Hudson is T. G. L. Hudson's father, and we state that relationship openly. T. G. L. Hudson leads Hudson Risk Culture; his book *The Culture Ladder*, due from CRC Press in February 2027, builds on Dr Hudson's ladder and reframes it around fit to risk. See [Books]({{ '/books/' | relative_url }}).
+Ron Westrum described three organisational cultures: pathological, bureaucratic and generative. Professor P. T. W. Hudson extended them into the safety culture ladder; the five-stage version followed in 2000, with Dianne Parker, Matthew Lawrie and colleagues. Westrum himself has not accepted the two added stages. Professor Hudson is T. G. L. Hudson's father, and we state that relationship openly. T. G. L. Hudson leads Hudson Risk Culture; his book *The Culture Ladder*, due from CRC Press in February 2027, builds on Professor Hudson's ladder and reframes it around fit to risk. See [Books]({{ '/books/' | relative_url }}).
 
 ## Working against the risk
 

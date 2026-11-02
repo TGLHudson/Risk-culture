@@ -16,7 +16,8 @@ This repository holds the Hudson Risk Culture website, served at **hudsonriskcul
 3. **Acronyms.** Spell out every acronym in full on first use on each page, including "Hudson Risk Culture (HRC)".
 4. **Spelling.** British English.
 5. **Claims.** Do not invent clients, case studies, testimonials, results or credentials. Leave a clearly marked placeholder instead.
-6. **Provenance.** The safety culture ladder was developed by Dr P. T. W. Hudson, the author's father, from Ron Westrum's three organisational cultures (pathological, bureaucratic, generative); he worked out the five stages with Westrum's cooperation. Credit Westrum too. Credit him wherever the ladder's origin is described, and declare the relationship openly.
+6. **Title.** P. T. W. Hudson holds both a doctorate and a chair: call him Professor P. T. W. Hudson, then Professor Hudson.
+7. **Provenance.** The safety culture ladder was developed by Professor P. T. W. Hudson, the author's father, from Ron Westrum's three organisational cultures (pathological, bureaucratic, generative); Westrum has not accepted the two added stages, so never imply he endorsed the five-stage ladder. Credit Westrum too. Credit him wherever the ladder's origin is described, and declare the relationship openly.
 
 ## Technical decisions
 
@@ -29,8 +30,8 @@ This repository holds the Hudson Risk Culture website, served at **hudsonriskcul
 
 ## Decisions made
 
-- **Audience:** operational, health, safety and environment leaders; risk and governance functions; trade unions and workforce representatives, addressed directly.
-- **Pages:** Home, Approach, Consulting, Tools and licensing, Publications (with sub-pages for Dr P. T. W. Hudson and P. A. R. Hudson), Books, About, Contact.
+- **Audience:** corporate clients first: operational, health, safety and environment leaders, and risk and governance functions. Trade unions and workforce representatives are secondary: the pro-worker, pro-union stance stays, but union content sits only in a section at the foot of Consulting, not on Home or Contact.
+- **Pages:** Home, Approach, Consulting, Tools and licensing, Publications (with sub-pages for Professor P. T. W. Hudson and P. A. R. Hudson), Books, About, Contact.
 - **Selling:** consulting and tool licensing are by enquiry only. No prices on the site.
 - **Email:** enquiries@hudsonriskculture.com for consulting and licensing; info@hudsonriskculture.com for everything else. Role addresses only, never personal ones.
 - **Intellectual property:** name a tool or method only once Tim has cleared it for public description; until then, a placeholder.

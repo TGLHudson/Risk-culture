@@ -19,7 +19,7 @@ Safety is not the opposite of dangerous work. It is the condition of being able 
 
 ## Provenance
 
-The safety culture ladder that this work builds on was developed by Dr P. T. W. Hudson, T. G. L. Hudson's father, from Ron Westrum's three organisational cultures.
+The safety culture ladder that this work builds on was developed by Professor P. T. W. Hudson, T. G. L. Hudson's father, from Ron Westrum's three organisational cultures.
 
 ## Hudson Global Consulting
 

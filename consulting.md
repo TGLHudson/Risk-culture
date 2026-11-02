@@ -11,7 +11,6 @@ Hudson Risk Culture (HRC) consults on risk culture, operational risk, safety cul
 
 - **Operational, health, safety and environment leaders** in organisations that run serious hazards and need to know whether their culture fits those hazards.
 - **Risk and governance functions** that are asked to assess, report on or change risk culture, and want a basis for doing so that is tied to the risks actually run.
-- **Trade unions and workforce representatives**, acting for the people who carry the risk at the worksite and who have an equal stake in how it is managed.
 
 Whoever makes the enquiry, the workforce takes part in the work, together with its union representatives where they exist. The aim is agreement between management and workforce on how the risks are managed.
 

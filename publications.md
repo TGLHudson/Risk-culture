@@ -5,7 +5,7 @@ title: Publications
 description: Conference papers and book chapters by T. G. L. Hudson, and the forthcoming book The Culture Ladder.
 ---
 
-T. G. L. Hudson, of Hudson Risk Culture (HRC), has published some 25 conference papers and book chapters, most of them with the Society of Petroleum Engineers (SPE). SPE papers are held in [OnePetro](https://onepetro.org), the SPE's online library, where subscription or purchase may be required; each entry below links to its Digital Object Identifier (DOI). Most of the papers below were written with Dr P. T. W. Hudson, T. G. L. Hudson's father, and with P. A. R. Hudson; see [Related authors](#related-authors).
+T. G. L. Hudson, of Hudson Risk Culture (HRC), has published some 25 conference papers and book chapters, most of them with the Society of Petroleum Engineers (SPE). SPE papers are held in [OnePetro](https://onepetro.org), the SPE's online library, where subscription or purchase may be required; each entry below links to its Digital Object Identifier (DOI). Most of the papers below were written with Professor P. T. W. Hudson, T. G. L. Hudson's father, and with P. A. R. Hudson; see [Related authors](#related-authors).
 
 <p class="placeholder">Add the remaining published papers to reach the figure stated above, or change the figure. Confirm each DOI resolves before go-live.</p>
 
@@ -80,9 +80,9 @@ Further SPE papers are due for presentation in January 2027. They will be listed
 
 ## Related authors
 
-### Dr P. T. W. Hudson
+### Professor P. T. W. Hudson
 
-Dr P. T. W. Hudson, T. G. L. Hudson's father, developed the safety culture ladder from Ron Westrum's three organisational cultures. His own papers are listed on a separate page: [Papers by Dr P. T. W. Hudson]({{ '/publications/p-t-w-hudson/' | relative_url }}).
+Professor P. T. W. Hudson, T. G. L. Hudson's father, developed the safety culture ladder from Ron Westrum's three organisational cultures. His own papers are listed on a separate page: [Papers by Professor P. T. W. Hudson]({{ '/publications/p-t-w-hudson/' | relative_url }}).
 
 ### P. A. R. Hudson
 
