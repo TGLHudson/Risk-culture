@@ -4,7 +4,7 @@ This repository holds the Hudson Risk Culture website, served at **hudsonriskcul
 
 ## The author
 
-- T. G. L. Hudson works on operational risk, safety culture and barrier analysis, operating through Hudson Global Consulting from Cambridge, United Kingdom, and Leiden, The Netherlands. He has published some 25 peer-reviewed conference papers and book chapters with the Society of Petroleum Engineers (SPE).
+- T. G. L. Hudson works on operational risk, safety culture and barrier analysis, operating through Hudson Global Consulting from Cambridge, United Kingdom, and Leiden, The Netherlands. He has published some 25 conference papers and book chapters, most of them with the Society of Petroleum Engineers (SPE). Do not call them all peer-reviewed.
 - His book *The Culture Ladder* is due from CRC Press in February 2027. It has its own site, thecultureladder.com, in the separate TCL-website repository. Further books will follow; the site lists them on its Books page. Keep the two sites distinct, but link between them.
 - Consulting stance: "we're not working for management, we're working against the risk." The aim is management and workforce agreeing on how the risks being run are managed. The work is pro-worker and pro-union.
 - Core belief: safety is not the opposite of dangerous work, it is the condition of being able to repeat it.
@@ -16,7 +16,7 @@ This repository holds the Hudson Risk Culture website, served at **hudsonriskcul
 3. **Acronyms.** Spell out every acronym in full on first use on each page, including "Hudson Risk Culture (HRC)".
 4. **Spelling.** British English.
 5. **Claims.** Do not invent clients, case studies, testimonials, results or credentials. Leave a clearly marked placeholder instead.
-6. **Provenance.** The safety culture ladder originates with Dr P. T. W. Hudson, the author's father. Credit him wherever the ladder's origin is described, and declare the relationship openly.
+6. **Provenance.** The safety culture ladder was developed by Dr P. T. W. Hudson, the author's father, from Ron Westrum's three organisational cultures (pathological, bureaucratic, generative); he worked out the five stages with Westrum's cooperation. Credit Westrum too. Credit him wherever the ladder's origin is described, and declare the relationship openly.
 
 ## Technical decisions
 
@@ -41,3 +41,4 @@ This repository holds the Hudson Risk Culture website, served at **hudsonriskcul
 - The hero photograph for the home page.
 - One sentence stating P. A. R. Hudson's relationship to T. G. L. Hudson and to HRC.
 - Whether later books get their own websites.
+- Whether workforce participation is a condition of every engagement, or an aim.

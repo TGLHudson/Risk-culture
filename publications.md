@@ -2,24 +2,16 @@
 layout: default
 permalink: /publications/
 title: Publications
-description: Peer-reviewed papers and book chapters by T. G. L. Hudson, and the forthcoming book The Culture Ladder.
+description: Conference papers and book chapters by T. G. L. Hudson, and the forthcoming book The Culture Ladder.
 ---
 
-T. G. L. Hudson, of Hudson Risk Culture (HRC), has published some 25 peer-reviewed conference papers and book chapters with the Society of Petroleum Engineers (SPE). SPE papers are available through [OnePetro](https://onepetro.org), the SPE's library; each entry below links to its Digital Object Identifier (DOI).
+T. G. L. Hudson, of Hudson Risk Culture (HRC), has published some 25 conference papers and book chapters, most of them with the Society of Petroleum Engineers (SPE). SPE papers are available through [OnePetro](https://onepetro.org), the SPE's library; each entry below links to its Digital Object Identifier (DOI).
 
 <p class="placeholder">This list holds 14 SPE papers and one book chapter, taken from the Note on Sources in <cite>The Culture Ladder</cite>. That note lists only the papers relevant to the book. Add the remaining papers to reach the "some 25" stated above, or change the figure. DOIs are derived from the SPE paper numbers; open each link once before go-live to confirm it resolves.</p>
 
 ## Book
 
 *The Culture Ladder*. CRC Press, due February 2027. See [Books]({{ '/books/' | relative_url }}) and the book's website, [thecultureladder.com](https://thecultureladder.com).
-
-## Dr P. T. W. Hudson
-
-The safety culture ladder originates with Dr P. T. W. Hudson, T. G. L. Hudson's father. His own papers are listed on a separate page: [Papers by Dr P. T. W. Hudson]({{ '/publications/p-t-w-hudson/' | relative_url }}).
-
-## P. A. R. Hudson
-
-P. A. R. Hudson is co-author of several papers below. P. A. R. Hudson's own papers are listed on a separate page: [Papers by P. A. R. Hudson]({{ '/publications/p-a-r-hudson/' | relative_url }}).
 
 ## Society of Petroleum Engineers papers
 
@@ -77,6 +69,16 @@ SPE International Conference on Health, Safety and Environment in Oil and Gas Ex
 - Hudson, P. T. W. and Hudson, T. G. L. (2021). Safety culture stories: news from the front. Safety-Critical Systems Club. [Citation record](https://scsc.uk/resources/citation_r1322.html)
 
 <p class="placeholder">Confirm the "Safety culture stories" entry: venue, full author names and whether it was peer reviewed. It was found by web search, not taken from the author's own list.</p>
+
+## Related authors
+
+### Dr P. T. W. Hudson
+
+Dr P. T. W. Hudson, T. G. L. Hudson's father, developed the safety culture ladder from Ron Westrum's three organisational cultures. His own papers are listed on a separate page: [Papers by Dr P. T. W. Hudson]({{ '/publications/p-t-w-hudson/' | relative_url }}).
+
+### P. A. R. Hudson
+
+P. A. R. Hudson is co-author of several papers above. P. A. R. Hudson's own papers are listed on a separate page: [Papers by P. A. R. Hudson]({{ '/publications/p-a-r-hudson/' | relative_url }}).
 
 ## Forthcoming
 

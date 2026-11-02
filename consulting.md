@@ -17,12 +17,6 @@ Whoever makes the enquiry, the workforce takes part in the work, together with i
 
 <p class="placeholder">Who receives the findings: whether management and workforce receive the same report, and whether findings can be attributed to individuals. State only what is actually the practice.</p>
 
-## For trade unions and workforce representatives
-
-The work puts the people who are exposed to the hazard at the centre, not at its edge. Unions and workforce representatives are welcome to contact us directly.
-
-<p class="placeholder">What a union or workforce body can ask for: whether it can commission an engagement itself or jointly with management, or ask for an independent view of how a risk is being managed; who funds the work; whether the workforce side receives the full findings; and how what individual workers say is protected. State only what is actually offered.</p>
-
 ## What an engagement covers
 
 <p class="placeholder">The engagement types on offer, for example an assessment of culture fit, a barrier analysis, or a review of decision-making and delegation. Name only methods cleared for public description. One short paragraph each: what it is, who takes part, and what the organisation has at the end, including anything it can report to a board or regulator.</p>
@@ -30,6 +24,12 @@ The work puts the people who are exposed to the hazard at the centre, not at its
 ## How engagements are set up
 
 <p class="placeholder">Typical scope, duration and format (on site, remote, workshop). No fees on the site; terms by enquiry.</p>
+
+## For trade unions and workforce representatives
+
+The work puts the people who are exposed to the hazard at the centre, not at its edge. Unions and workforce representatives are welcome to contact us directly.
+
+<p class="placeholder">What a union or workforce body can ask for: whether it can commission an engagement itself or jointly with management, or ask for an independent view of how a risk is being managed; who funds the work; whether the workforce side receives the full findings; and how what individual workers say is protected. State only what is actually offered.</p>
 
 ## Enquiries
 

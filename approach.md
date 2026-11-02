@@ -7,15 +7,17 @@ description: Why risk culture should be fitted to the risks an organisation runs
 
 Hudson Risk Culture (HRC) starts from one position: the culture an organisation needs is set by the risks it runs, not by a ranking of maturity.
 
+By risk culture we mean the shared practices through which an organisation recognises, discusses and manages the risks it runs; safety culture is one part of it. Our published work to date is in high-hazard operations.
+
 ## Fit, not maturity
 
-Most safety and risk culture models place an organisation on a scale and recommend that it climb. That treats culture as a score to improve in the abstract. We ask a different question: given the hazards, the operations and the uncertainty this organisation faces, what culture does it need, and does the culture it has fit?
+Maturity models, the safety culture ladder among them, are usually read as scales to climb, and our own earlier work used the ladder that way. Read as a climb, culture becomes a score to improve in the abstract. We ask a different question: given the hazards, the operations and the uncertainty this organisation faces, what culture does it need, and does the culture it has fit? Read this way, the ladder is a map of fit, not a scoreboard.
 
 <p class="placeholder">Two or three sentences, in the author's words, on what "fit" means in practice, how it is assessed, and on what evidence. To be written from published material only.</p>
 
 ## Where the ladder comes from
 
-The safety culture ladder originates with Dr P. T. W. Hudson. He is the father of T. G. L. Hudson, who leads Hudson Risk Culture and wrote *The Culture Ladder*, and we state that relationship openly. *The Culture Ladder* (CRC Press, February 2027) builds on his ladder and reframes it around fit to risk. See [Books]({{ '/books/' | relative_url }}).
+Ron Westrum described three organisational cultures: pathological, bureaucratic and generative. Dr P. T. W. Hudson built the safety culture ladder on them, working out its five stages with Westrum's cooperation. He is the father of T. G. L. Hudson, who leads Hudson Risk Culture and wrote *The Culture Ladder*, and we state that relationship openly. *The Culture Ladder* (CRC Press, February 2027) builds on his ladder and reframes it around fit to risk. See [Books]({{ '/books/' | relative_url }}).
 
 ## Working against the risk
 

@@ -9,7 +9,7 @@ Hudson Risk Culture (HRC) is the risk culture practice of T. G. L. Hudson, who o
 
 ## T. G. L. Hudson
 
-T. G. L. Hudson works on operational risk, safety culture and barrier analysis. He has published some 25 peer-reviewed conference papers and book chapters with the Society of Petroleum Engineers (SPE). His book *The Culture Ladder* is due from CRC Press in February 2027.
+T. G. L. Hudson works on operational risk, safety culture and barrier analysis. He has published some 25 conference papers and book chapters, most of them with the Society of Petroleum Engineers (SPE). His book *The Culture Ladder* is due from CRC Press in February 2027.
 
 <p class="placeholder">Career outline: sectors and roles, in the author's words. No client names.</p>
 
@@ -19,7 +19,7 @@ Safety is not the opposite of dangerous work; it is the condition of being able 
 
 ## Provenance
 
-The safety culture ladder that this work builds on originates with Dr P. T. W. Hudson, T. G. L. Hudson's father.
+The safety culture ladder that this work builds on was developed by Dr P. T. W. Hudson, T. G. L. Hudson's father, from Ron Westrum's three organisational cultures.
 
 ## Hudson Global Consulting
 
