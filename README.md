@@ -12,8 +12,10 @@ The site uses [Jekyll](https://jekyllrb.com/), which GitHub Pages builds directl
 |---|---|
 | `_config.yml` | Site title, description, and the main navigation (`nav`) |
 | `_layouts/default.html` | The page template |
-| `_includes/` | Header and footer |
-| `assets/css/site.css` | All styling. **The colours in its `:root` block are placeholders**, to be replaced with those of hudsonglobalconsulting.com |
+| `_includes/` | Header, footer and the home-page hero |
+| `assets/css/site.css` | All styling, following `STYLE.md` |
+| `assets/fonts/` | Montserrat and Source Sans 3, self-hosted (SIL Open Font Licence, copies included) |
+| `STYLE.md` | The Hudson family style guide: palette, type and components shared with hudsonglobalconsulting.com and the book's site |
 | `index.md`, `approach.md`, `consulting.md`, `tools.md`, `publications.md`, `culture-ladder.md`, `about.md`, `contact.md` | The pages |
 
 Content still to be supplied or cleared for publication is marked in the pages as `<p class="placeholder">…</p>` and shows on the site in a yellow box headed "Placeholder". Search for `placeholder` to find them all. None should remain at go-live.

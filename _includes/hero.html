@@ -1,0 +1,19 @@
+{%- comment -%}
+  Home page hero. Set hero.image in the page's front matter to a dark
+  photograph (for example /assets/img/hero.jpg) to show it under the navy
+  overlay. Until then the hero is plain navy.
+{%- endcomment -%}
+<section class="hero" aria-labelledby="hero-title"{% if page.hero.image %} style="--hero-image: url('{{ page.hero.image | relative_url }}')"{% endif %}>
+  <div class="wrap">
+    <p class="eyebrow">{{ page.hero.eyebrow }}</p>
+    <h1 id="hero-title">{{ page.hero.title }}</h1>
+    <p class="lead">{{ page.hero.lead }}</p>
+    {% if page.hero.credentials %}
+    <ul class="credentials">
+      {% for c in page.hero.credentials %}<li>{{ c }}</li>{% endfor %}
+    </ul>
+    {% endif %}
+    <a class="button" href="{{ page.hero.button_url | relative_url }}">{{ page.hero.button }}</a>
+    {% unless page.hero.image %}<p class="placeholder" style="margin-top:2rem">Hero photograph: a dark, full-bleed image to sit under the navy overlay. Set <code>hero.image</code> in <code>index.md</code>. Use only a photograph the site has the rights to.</p>{% endunless %}
+  </div>
+</section>
