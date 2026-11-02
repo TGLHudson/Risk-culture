@@ -12,3 +12,7 @@ build/
 # Local secrets
 .env
 .env.*
+
+# Jekyll caches
+.jekyll-cache/
+.sass-cache/

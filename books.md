@@ -5,7 +5,7 @@ title: Books
 description: Books by T. G. L. Hudson, beginning with The Culture Ladder, CRC Press, February 2027.
 ---
 
-Books by T. G. L. Hudson, the author behind Hudson Risk Culture (HRC).
+Books by T. G. L. Hudson, who leads Hudson Risk Culture (HRC).
 
 ## *The Culture Ladder*
 

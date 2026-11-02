@@ -17,7 +17,7 @@ It helps to include:
 - a brief, non-confidential description of the risks you are concerned with;
 - whether you are asking about consulting, licensing a tool, or both.
 
-<p class="placeholder">How enquiries are handled in confidence, and how a conflict is managed where Hudson Risk Culture works, or has worked, for the same employer.</p>
+<p class="placeholder">How enquiries are handled in confidence, and how a conflict is managed where Hudson Risk Culture is, or has been, engaged by the same employer.</p>
 
 ## General information
 

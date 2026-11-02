@@ -5,13 +5,13 @@ title: Publications
 description: Conference papers and book chapters by T. G. L. Hudson, and the forthcoming book The Culture Ladder.
 ---
 
-T. G. L. Hudson, of Hudson Risk Culture (HRC), has published some 25 conference papers and book chapters, most of them with the Society of Petroleum Engineers (SPE). SPE papers are available through [OnePetro](https://onepetro.org), the SPE's library; each entry below links to its Digital Object Identifier (DOI).
+T. G. L. Hudson, of Hudson Risk Culture (HRC), has published some 25 conference papers and book chapters, most of them with the Society of Petroleum Engineers (SPE). SPE papers are held in [OnePetro](https://onepetro.org), the SPE's online library, where subscription or purchase may be required; each entry below links to its Digital Object Identifier (DOI). Most of the papers below were written with Dr P. T. W. Hudson, T. G. L. Hudson's father, and with P. A. R. Hudson; see [Related authors](#related-authors).
 
-<p class="placeholder">This list holds 14 SPE papers and one book chapter, taken from the Note on Sources in <cite>The Culture Ladder</cite>. That note lists only the papers relevant to the book. Add the remaining papers to reach the "some 25" stated above, or change the figure. DOIs are derived from the SPE paper numbers; open each link once before go-live to confirm it resolves.</p>
+<p class="placeholder">Add the remaining published papers to reach the figure stated above, or change the figure. Confirm each DOI resolves before go-live.</p>
 
 ## Book
 
-*The Culture Ladder*. CRC Press, due February 2027. See [Books]({{ '/books/' | relative_url }}) and the book's website, [thecultureladder.com](https://thecultureladder.com).
+Hudson, T. G. L. (forthcoming, February 2027). *The Culture Ladder*. CRC Press. See [Books]({{ '/books/' | relative_url }}) and the book's website, [thecultureladder.com](https://thecultureladder.com).
 
 ## Society of Petroleum Engineers papers
 
@@ -34,7 +34,7 @@ SPE International Conference and Exhibition on Health, Safety, Environment, and 
 - Hudson, T. G. L. (2020). Famous barriers within the bowtie levels analysis: creating middle and senior management understanding about the relative importance of management activities. SPE-199424-MS. [doi:10.2118/199424-MS](https://doi.org/10.2118/199424-MS)
 - Hudson, P. A. R. and Hudson, T. G. L. (2020). That is not a barrier! Investigating improper barrier placement in bowties using road traffic bowties as a case study. SPE-199380-MS. [doi:10.2118/199380-MS](https://doi.org/10.2118/199380-MS)
 
-<p class="placeholder">Confirm the authors of SPE-199446-MS and SPE-199424-MS. The book's Note on Sources and other working files disagree on whether P. T. W. Hudson is a co-author.</p>
+<p class="placeholder">Authorship to be confirmed against the publisher's record before go-live.</p>
 
 ### 2018
 
@@ -44,7 +44,7 @@ SPE International Conference and Exhibition on Health, Safety, Security, Environ
 - Hudson, T. G. L. (2018). Refining Heinrich: power laws in incident severity distributions. SPE-190669-MS. [doi:10.2118/190669-MS](https://doi.org/10.2118/190669-MS)
 - Hudson, T. G. L. (2018). 'Famous' barriers: a novel approach to improving management understanding of critical functions. SPE-190633-MS. [doi:10.2118/190633-MS](https://doi.org/10.2118/190633-MS)
 
-<p class="placeholder">Confirm the authors of SPE-190633-MS. One working file lists a second Hudson as co-author and links it to SPE-197793-MS.</p>
+<p class="placeholder">Authorship to be confirmed against the publisher's record before go-live.</p>
 
 ### 2016
 
@@ -52,7 +52,7 @@ SPE International Conference and Exhibition on Health, Safety, Security, Environ
 
 - Hudson, P. A. R. and Hudson, T. G. L. (2016). Making safety critical decisions in a high-hazard high-consequence environment: a case study. SPE-179436-MS. [doi:10.2118/179436-MS](https://doi.org/10.2118/179436-MS)
 
-<p class="placeholder">Confirm the first author of SPE-179436-MS. The book's Note on Sources gives P. A. R. Hudson; the reference lists in the forthcoming papers give P. T. W. Hudson.</p>
+<p class="placeholder">Authorship to be confirmed against the publisher's record before go-live.</p>
 
 ### 2010
 
@@ -68,7 +68,15 @@ SPE International Conference on Health, Safety and Environment in Oil and Gas Ex
 
 - Hudson, P. T. W. and Hudson, T. G. L. (2021). Safety culture stories: news from the front. Safety-Critical Systems Club. [Citation record](https://scsc.uk/resources/citation_r1322.html)
 
-<p class="placeholder">Confirm the "Safety culture stories" entry: venue, full author names and whether it was peer reviewed. It was found by web search, not taken from the author's own list.</p>
+<p class="placeholder">Venue, authors and review status to be confirmed against the publisher's record before go-live.</p>
+
+## Forthcoming
+
+Further SPE papers are due for presentation in January 2027. They will be listed here once published.
+
+## Journal articles
+
+<p class="placeholder">Journal articles, to be added as each is accepted and published. Nothing under review is listed.</p>
 
 ## Related authors
 
@@ -78,12 +86,4 @@ Dr P. T. W. Hudson, T. G. L. Hudson's father, developed the safety culture ladde
 
 ### P. A. R. Hudson
 
-P. A. R. Hudson is co-author of several papers above. P. A. R. Hudson's own papers are listed on a separate page: [Papers by P. A. R. Hudson]({{ '/publications/p-a-r-hudson/' | relative_url }}).
-
-## Forthcoming
-
-Further SPE papers are due for presentation in January 2027. They will be listed here once published.
-
-## Journal articles
-
-<p class="placeholder">Journal articles, to be added as each is accepted and published. Nothing under review is listed.</p>
+P. A. R. Hudson is co-author of several papers above; further published work is listed on a separate page: [Papers by P. A. R. Hudson]({{ '/publications/p-a-r-hudson/' | relative_url }}).
