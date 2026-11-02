@@ -1,0 +1,86 @@
+/*
+  Hudson Risk Culture (HRC) stylesheet.
+
+  COLOURS ARE PLACEHOLDERS. They are to match hudsonglobalconsulting.com,
+  which could not be read from the build session. Replace the values in
+  the :root block below with that site's colours; nothing else needs to
+  change. Keep text-on-background contrast at 4.5:1 or better.
+*/
+:root {
+  --colour-ink: #1c2230;        /* PLACEHOLDER: body text */
+  --colour-muted: #4a5263;      /* PLACEHOLDER: secondary text */
+  --colour-paper: #fbfbf8;      /* PLACEHOLDER: page background */
+  --colour-brand: #1f3a5f;      /* PLACEHOLDER: header band, headings */
+  --colour-on-brand: #ffffff;   /* PLACEHOLDER: text on the header band */
+  --colour-link: #1d4f8c;       /* PLACEHOLDER: links */
+  --colour-rule: #d6dae1;       /* PLACEHOLDER: rules and borders */
+  --colour-flag-bg: #fff4d6;    /* placeholder notices: keep conspicuous */
+  --colour-flag-edge: #b07d00;
+
+  --measure: 42rem;
+  --font-body: Georgia, "Times New Roman", serif;
+  --font-ui: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--colour-paper);
+  color: var(--colour-ink);
+  font-family: var(--font-body);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+}
+
+.wrap { max-width: 60rem; margin: 0 auto; padding: 0 1rem; }
+main.wrap { padding-top: 2.5rem; padding-bottom: 3rem; }
+main > * { max-width: var(--measure); }
+
+.skip-link {
+  position: absolute; left: -999px; top: 0;
+  background: var(--colour-ink); color: var(--colour-paper);
+  padding: .5rem 1rem; z-index: 10;
+}
+.skip-link:focus { left: 0; }
+
+a { color: var(--colour-link); text-underline-offset: .15em; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 3px solid var(--colour-flag-edge); outline-offset: 2px; }
+
+h1, h2, h3 { color: var(--colour-brand); line-height: 1.25; font-family: var(--font-ui); }
+h1 { font-size: 2rem; margin: 0 0 1rem; }
+h2 { font-size: 1.35rem; margin: 2.25rem 0 .5rem; }
+h3 { font-size: 1.1rem; margin: 1.5rem 0 .25rem; }
+
+/* Header */
+.site-header { background: var(--colour-brand); color: var(--colour-on-brand); font-family: var(--font-ui); }
+.header-inner { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .5rem 2rem; padding-top: 1rem; padding-bottom: 1rem; }
+.site-name { color: var(--colour-on-brand); font-weight: 700; font-size: 1.15rem; text-decoration: none; }
+.site-header nav ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; }
+.site-header nav a { color: var(--colour-on-brand); text-decoration: none; font-size: .95rem; }
+.site-header nav a:hover, .site-header nav a[aria-current="page"] { text-decoration: underline; text-underline-offset: .3em; }
+
+/* Home */
+.lead { font-size: 1.25rem; color: var(--colour-ink); }
+.routes { list-style: none; padding: 0; display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); max-width: none; }
+.routes li { border-top: 3px solid var(--colour-brand); padding-top: .75rem; }
+.routes a { font-family: var(--font-ui); font-weight: 600; }
+
+blockquote { margin: 1.5rem 0; padding-left: 1rem; border-left: 3px solid var(--colour-brand); color: var(--colour-muted); }
+
+/* Clearly marked placeholders: content still to be supplied or cleared. */
+.placeholder {
+  background: var(--colour-flag-bg);
+  border-left: 4px solid var(--colour-flag-edge);
+  padding: .5rem .75rem;
+  font-family: var(--font-ui);
+  font-size: .95rem;
+}
+.placeholder::before { content: "Placeholder: "; font-weight: 700; }
+
+/* Footer */
+.site-footer { border-top: 1px solid var(--colour-rule); color: var(--colour-muted); font-family: var(--font-ui); font-size: .9rem; padding: 1.5rem 0 2rem; }
+.site-footer a { color: var(--colour-muted); }
