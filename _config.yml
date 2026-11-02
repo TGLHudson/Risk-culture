@@ -2,7 +2,7 @@
 title: Hudson Risk Culture
 description: >-
   Risk culture fitted to the risks an organisation runs. Consulting and
-  methods from T. G. L. Hudson, Hudson Global Consulting, Leiden.
+  methods from T. G. L. Hudson, Hudson Global Consulting, Cambridge and Leiden.
 lang: en-GB
 url: "https://hudsonriskculture.com"
 baseurl: ""
@@ -26,8 +26,8 @@ nav:
     url: /tools/
   - title: Publications
     url: /publications/
-  - title: The Culture Ladder
-    url: /culture-ladder/
+  - title: Books
+    url: /books/
   - title: About
     url: /about/
   - title: Contact

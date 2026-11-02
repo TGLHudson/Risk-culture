@@ -4,8 +4,8 @@ This repository holds the Hudson Risk Culture website, served at **hudsonriskcul
 
 ## The author
 
-- T. G. L. Hudson works on operational risk, safety culture and barrier analysis, operating through Hudson Global Consulting from Leiden, The Netherlands. He has published some 25 peer-reviewed conference papers and book chapters with the Society of Petroleum Engineers (SPE).
-- His book *The Culture Ladder* is due from CRC Press in February 2027. It has its own site in the separate TCL-website repository. Keep the two sites distinct, but link between them.
+- T. G. L. Hudson works on operational risk, safety culture and barrier analysis, operating through Hudson Global Consulting from Cambridge and Leiden. He has published some 25 peer-reviewed conference papers and book chapters with the Society of Petroleum Engineers (SPE).
+- His book *The Culture Ladder* is due from CRC Press in February 2027. It has its own site, thecultureladder.com, in the separate TCL-website repository. Further books will follow; the site lists them on its Books page. Keep the two sites distinct, but link between them.
 - Consulting stance: "we're not working for management, we're working against the risk." The aim is management and workforce agreeing on how the risks being run are managed. The work is pro-worker and pro-union.
 - Core belief: safety is not the opposite of dangerous work, it is the condition of being able to repeat it.
 

@@ -15,7 +15,7 @@ Most safety and risk culture models place an organisation on a scale and recomme
 
 ## Where the ladder comes from
 
-The safety culture ladder originates with Dr P. T. W. Hudson. He is the father of T. G. L. Hudson, the author of this work, and we state that relationship openly. *The Culture Ladder* (CRC Press, February 2027) builds on his ladder and reframes it around fit to risk. See [The Culture Ladder]({{ '/culture-ladder/' | relative_url }}).
+The safety culture ladder originates with Dr P. T. W. Hudson. He is the father of T. G. L. Hudson, the author of this work, and we state that relationship openly. *The Culture Ladder* (CRC Press, February 2027) builds on his ladder and reframes it around fit to risk. See [Books]({{ '/books/' | relative_url }}).
 
 ## Working against the risk
 

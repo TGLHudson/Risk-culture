@@ -2,10 +2,10 @@
 layout: default
 permalink: /about/
 title: About
-description: T. G. L. Hudson, Hudson Global Consulting, Leiden.
+description: T. G. L. Hudson, Hudson Global Consulting, Cambridge and Leiden.
 ---
 
-Hudson Risk Culture (HRC) is the risk culture practice of T. G. L. Hudson, who operates through Hudson Global Consulting from Leiden, The Netherlands.
+Hudson Risk Culture (HRC) is the risk culture practice of T. G. L. Hudson, who operates through Hudson Global Consulting from Cambridge and Leiden.
 
 ## T. G. L. Hudson
 

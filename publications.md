@@ -11,11 +11,15 @@ T. G. L. Hudson, of Hudson Risk Culture (HRC), has published some 25 peer-review
 
 ## Book
 
-*The Culture Ladder*. CRC Press, due February 2027. See [The Culture Ladder]({{ '/culture-ladder/' | relative_url }}).
+*The Culture Ladder*. CRC Press, due February 2027. See [Books]({{ '/books/' | relative_url }}) and the book's website, [thecultureladder.com](https://thecultureladder.com).
 
 ## Dr P. T. W. Hudson
 
 The safety culture ladder originates with Dr P. T. W. Hudson, T. G. L. Hudson's father. His own papers are listed on a separate page: [Papers by Dr P. T. W. Hudson]({{ '/publications/p-t-w-hudson/' | relative_url }}).
+
+## P. A. R. Hudson
+
+P. A. R. Hudson is co-author of several papers below. His own papers are listed on a separate page: [Papers by P. A. R. Hudson]({{ '/publications/p-a-r-hudson/' | relative_url }}).
 
 ## Society of Petroleum Engineers papers
 
